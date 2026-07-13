@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T06:56:36.722Z",
+  "generatedAt": "2026-07-13T07:57:33.164Z",
   "sourceResponse": "api/backend/api/MyDocuments/ViewDocumentV2.json",
   "documentFile": "custom/document.pdf",
   "exactBytesFromContentList": true,
@@ -32,6 +32,198 @@
     "custom/fonts/web/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf"
   ],
   "pdfFontDirectory": "custom/fonts/pdf",
-  "pagesInspected": 0,
-  "fonts": []
+  "inspectionStatus": "ok",
+  "pageCount": 1,
+  "pagesInspected": 1,
+  "fonts": [
+    {
+      "pageNumbers": [
+        1
+      ],
+      "pdfResourceIdentifier": "g_d0_f1",
+      "loadedName": "g_d0_f1",
+      "name": "QPAAAA+f1m5u35g-b54-dqg-1oec2dhcws6n7f1m5u35g-b54-dqg-1oec2dhcws6n7",
+      "fallbackName": "sans-serif",
+      "baseFont": "f1m5u35g-b54-dqg-1oec2dhcws6n7f1m5u35g-b54-dqg-1oec2dhcws6n7",
+      "normalizedName": "f1m5u35g-b54-dqg-1oec2dhcws6n7f1m5u35g-b54-dqg-1oec2dhcws6n7",
+      "subtype": "Type0",
+      "descendantSubtype": "CIDFontType2",
+      "encoding": "Identity-H",
+      "composite": true,
+      "embedded": true,
+      "subset": true,
+      "subsetPrefix": "QPAAAA",
+      "completeness": "subset",
+      "objectReference": "35 0 R",
+      "fontProgramReference": "52 0 R",
+      "fontProgramType": "TrueType",
+      "fontByteLength": 4460,
+      "appearsToContainArabicGlyphs": true,
+      "unicodeMappingEvidence": "ToUnicode CMap contains Arabic-range mappings.",
+      "likelyUsableForArbitraryNewArabicText": false,
+      "possibleWebFontMatches": [],
+      "extractedFile": "custom/fonts/pdf/f1m5u35g-b54-dqg-1oec2dhcws6n7f1m5u35g-b54-dqg-1oec2dhcws6n7.subset-35.ttf",
+      "warnings": [
+        "Subset font: it must not be treated as a complete font."
+      ]
+    },
+    {
+      "pageNumbers": [
+        1
+      ],
+      "pdfResourceIdentifier": "g_d0_f2",
+      "loadedName": "g_d0_f2",
+      "name": "QUAAAA+f1er22hw-jdw-f45-q5tfnjlh2p3tf1er22hw-jdw-f45-q5tfnjlh2p3t",
+      "fallbackName": "sans-serif",
+      "baseFont": "f1er22hw-jdw-f45-q5tfnjlh2p3tf1er22hw-jdw-f45-q5tfnjlh2p3t",
+      "normalizedName": "f1er22hw-jdw-f45-q5tfnjlh2p3tf1er22hw-jdw-f45-q5tfnjlh2p3t",
+      "subtype": "Type0",
+      "descendantSubtype": "CIDFontType2",
+      "encoding": "Identity-H",
+      "composite": true,
+      "embedded": true,
+      "subset": true,
+      "subsetPrefix": "QUAAAA",
+      "completeness": "subset",
+      "objectReference": "36 0 R",
+      "fontProgramReference": "53 0 R",
+      "fontProgramType": "TrueType",
+      "fontByteLength": 8928,
+      "appearsToContainArabicGlyphs": true,
+      "unicodeMappingEvidence": "ToUnicode CMap contains Arabic-range mappings.",
+      "likelyUsableForArbitraryNewArabicText": false,
+      "possibleWebFontMatches": [],
+      "extractedFile": "custom/fonts/pdf/f1er22hw-jdw-f45-q5tfnjlh2p3tf1er22hw-jdw-f45-q5tfnjlh2p3t.subset-36.ttf",
+      "warnings": [
+        "Subset font: it must not be treated as a complete font."
+      ]
+    },
+    {
+      "pageNumbers": [
+        1
+      ],
+      "pdfResourceIdentifier": "g_d0_f3",
+      "loadedName": "g_d0_f3",
+      "name": "QMAAAA+fvw124k-18d-eap-1k6ya30zgoiibfvw124k-18d-eap-1k6ya30zgoiib",
+      "fallbackName": "sans-serif",
+      "baseFont": "fvw124k-18d-eap-1k6ya30zgoiibfvw124k-18d-eap-1k6ya30zgoiib",
+      "normalizedName": "fvw124k-18d-eap-1k6ya30zgoiibfvw124k-18d-eap-1k6ya30zgoiib",
+      "subtype": "Type0",
+      "descendantSubtype": "CIDFontType2",
+      "encoding": "Identity-H",
+      "composite": true,
+      "embedded": true,
+      "subset": true,
+      "subsetPrefix": "QMAAAA",
+      "completeness": "subset",
+      "objectReference": "40 0 R",
+      "fontProgramReference": "54 0 R",
+      "fontProgramType": "TrueType",
+      "fontByteLength": 8884,
+      "appearsToContainArabicGlyphs": true,
+      "unicodeMappingEvidence": "ToUnicode CMap contains Arabic-range mappings.",
+      "likelyUsableForArbitraryNewArabicText": false,
+      "possibleWebFontMatches": [],
+      "extractedFile": "custom/fonts/pdf/fvw124k-18d-eap-1k6ya30zgoiibfvw124k-18d-eap-1k6ya30zgoiib.subset-40.ttf",
+      "warnings": [
+        "Subset font: it must not be treated as a complete font."
+      ]
+    },
+    {
+      "pageNumbers": [
+        1
+      ],
+      "pdfResourceIdentifier": "g_d0_f4",
+      "loadedName": "g_d0_f4",
+      "name": "PLUZNJ+Tajawal-Bold",
+      "fallbackName": "sans-serif",
+      "baseFont": "PLUZNJ+Tajawal-Bold",
+      "normalizedName": "Tajawal-Bold",
+      "subtype": "Type0",
+      "descendantSubtype": "CIDFontType2",
+      "encoding": "Identity-H",
+      "composite": true,
+      "embedded": true,
+      "subset": true,
+      "subsetPrefix": "PLUZNJ",
+      "completeness": "subset",
+      "objectReference": "28 0 R",
+      "fontProgramReference": "48 0 R",
+      "fontProgramType": "TrueType",
+      "fontByteLength": 3808,
+      "appearsToContainArabicGlyphs": false,
+      "unicodeMappingEvidence": "No Arabic-range ToUnicode mapping was confirmed.",
+      "likelyUsableForArbitraryNewArabicText": false,
+      "possibleWebFontMatches": [
+        "custom/fonts/web/Tajawal-Bold.a38b4347c7faf820.otf"
+      ],
+      "extractedFile": null,
+      "warnings": [
+        "Subset font: it must not be treated as a complete font.",
+        "OS/2 fsType was unavailable; extraction permission is unknown."
+      ]
+    },
+    {
+      "pageNumbers": [
+        1
+      ],
+      "pdfResourceIdentifier": "g_d0_f5",
+      "loadedName": "g_d0_f5",
+      "name": "QSAAAA+f2vwxzg-gcc-eip-waogszz53ziqf2vwxzg-gcc-eip-waogszz53ziq",
+      "fallbackName": "sans-serif",
+      "baseFont": "f2vwxzg-gcc-eip-waogszz53ziqf2vwxzg-gcc-eip-waogszz53ziq",
+      "normalizedName": "f2vwxzg-gcc-eip-waogszz53ziqf2vwxzg-gcc-eip-waogszz53ziq",
+      "subtype": "Type0",
+      "descendantSubtype": "CIDFontType2",
+      "encoding": "Identity-H",
+      "composite": true,
+      "embedded": true,
+      "subset": true,
+      "subsetPrefix": "QSAAAA",
+      "completeness": "subset",
+      "objectReference": "7 0 R",
+      "fontProgramReference": "3 0 R",
+      "fontProgramType": "TrueType",
+      "fontByteLength": 8276,
+      "appearsToContainArabicGlyphs": true,
+      "unicodeMappingEvidence": "ToUnicode CMap contains Arabic-range mappings.",
+      "likelyUsableForArbitraryNewArabicText": false,
+      "possibleWebFontMatches": [],
+      "extractedFile": "custom/fonts/pdf/f2vwxzg-gcc-eip-waogszz53ziqf2vwxzg-gcc-eip-waogszz53ziq.subset-7.ttf",
+      "warnings": [
+        "Subset font: it must not be treated as a complete font."
+      ]
+    },
+    {
+      "pageNumbers": [
+        1
+      ],
+      "pdfResourceIdentifier": "g_d0_f6",
+      "loadedName": "g_d0_f6",
+      "name": "QNAAAA+ArialRegular",
+      "fallbackName": "sans-serif",
+      "baseFont": "ArialRegular",
+      "normalizedName": "ArialRegular",
+      "subtype": "Type0",
+      "descendantSubtype": "CIDFontType2",
+      "encoding": "Identity-H",
+      "composite": true,
+      "embedded": true,
+      "subset": true,
+      "subsetPrefix": "QNAAAA",
+      "completeness": "subset",
+      "objectReference": "12 0 R",
+      "fontProgramReference": "8 0 R",
+      "fontProgramType": "TrueType",
+      "fontByteLength": 17576,
+      "appearsToContainArabicGlyphs": true,
+      "unicodeMappingEvidence": "ToUnicode CMap contains Arabic-range mappings.",
+      "likelyUsableForArbitraryNewArabicText": false,
+      "possibleWebFontMatches": [],
+      "extractedFile": "custom/fonts/pdf/ArialRegular.subset-12.ttf",
+      "warnings": [
+        "Subset font: it must not be treated as a complete font."
+      ]
+    }
+  ]
 }
